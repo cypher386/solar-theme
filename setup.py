@@ -24,7 +24,7 @@ setup(
     long_description=readme + '\n\n' + history,
     author='Vimalkumar Velayudhan',
     author_email='vimalkumarvelayudhan@gmail.com',
-    url='https://github.com/vkvn/solar-theme',
+    url='https://github.com/vimalkvn/solar-theme',
     packages=[
         'solar_theme',
     ],
