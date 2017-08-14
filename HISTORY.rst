@@ -2,6 +2,10 @@
 
 History
 -------
+1.3.3 (2017-08-14)
+..................
+* Update github repository URL.
+* Update PyPI classifiers, requirements.txt.
 
 1.3.2 (2014-03-12)
 ..................

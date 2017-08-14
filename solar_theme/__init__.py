@@ -3,7 +3,7 @@
 
 __author__ = 'Vimalkumar Velayudhan'
 __email__ = 'vimalkumarvelayudhan@gmail.com'
-__version__ = '1.3.2'
+__version__ = '1.3.3'
 
 import os.path
 
